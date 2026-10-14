@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/<oxneior31961>/flask-app:latest
+          tags: ghcr.io/oxneior31961/flask-app:latest
