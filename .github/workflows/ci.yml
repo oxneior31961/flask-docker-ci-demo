@@ -1,3 +1,4 @@
+#test secret
 name: Build and push image to GHCR
 on:
   push:
